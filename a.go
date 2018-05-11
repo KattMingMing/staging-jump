@@ -5,6 +5,11 @@ func aaaaaaaaaa() {
 	cccccccccc()
 }
 
+func eeeeeee() {
+	cccccccccc()
+	aaaaaaaaaa()
+}
+
 //
 //
 //
